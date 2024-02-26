@@ -14,3 +14,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GevAniStudio&theme=bear)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GevAniStudio&theme=bear) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GevAniStudio&theme=bear)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GevAniStudio&layout=compact&theme=radical&show_icons=true_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
